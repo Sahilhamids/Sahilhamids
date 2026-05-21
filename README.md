@@ -1,36 +1,104 @@
-﻿# Hi there, I'm Sahil Shaikh 👋
+<h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
 
-**Graduate Engineer Trainee @ Adani Cement | Transitioning to SDE-1 | Python & Embedded Enthusiast**
+<h3 align="center">
+Software Developer | Python | Backend Development
+</h3>
 
-I am an Electrical & Instrumentation Engineer with a passion for building scalable software solutions. I bridge the gap between industrial automation (PLCs/DCS) and modern software engineering.
-
----
-
-### 🛠️ My Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Industrial & Embedded**
-- **Hardware:** ESP32, Arduino, Raspberry Pi.
-- **Automation:** PLC (Ladder Logic), DCS, SCADA.
-- **Protocols:** MQTT, Modbus, HTTP.
-
-**Tools & Infrastructure**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+Electronics & Telecommunication Engineer exploring backend development and software engineering.
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilhamids&show_icons=true&theme=radical)
+## 🚀 About Me
+
+- 🎓 BE in Electronics & Telecommunication Engineering  
+- 💼 Working in the Electrical & Instrumentation domain  
+- 💻 Learning Backend Development and Software Engineering  
+- 🧠 Practicing Data Structures & Algorithms  
+- ⚡ Interested in automation, backend development, APIs, and databases  
 
 ---
 
-### 📧 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/sahil-h-shaikh
-- **Location:** Chandrapur, India
+## 💼 Experience
+
+### Graduate Engineer @ Adani Cement
+
+- Worked with industrial automation and monitoring systems  
+- Involved in troubleshooting and maintenance activities  
+- Collaborated with teams in production environments  
+- Developed analytical and problem-solving skills  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- Arduino  
+- ESP32  
+- PLC  
+- SCADA  
+- Basic SQL  
+- Basic Django  
+
+---
+
+## 📌 Projects
+
+### 🌱 Smart Fertigation System
+
+Crop-specific fertilizer automation system using sensors and IoT concepts.
+
+**Tech Used:** ESP32, Sensors, C++
+
+---
+
+### 🏠 GSM Based Home Automation
+
+Home automation system using GSM communication for remote device control.
+
+**Tech Used:** Arduino, GSM Module, C++
+
+---
+
+## 🧠 DSA & Problem Solving
+
+- Solved 120+ DSA problems  
+- Practicing:
+  - Arrays
+  - Trees
+  - Graphs
+  - Heap
+  - BFS / DFS
+  - Sliding Window
+  - Dynamic Programming
+
+---
+
+## 📚 Currently Learning
+
+- Django  
+- SQL  
+- AWS Fundamentals  
+- Backend Development Basics  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sahil-h-shaikh
+- 💻 LeetCode: https://leetcode.com/u/sahilhamid
+- 📧 Email: ssahil9635@gmail.com
+
+---
+
+<p align="center">
+⭐ Learning, building, and growing every day.
+</p>
