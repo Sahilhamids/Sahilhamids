@@ -25,7 +25,6 @@ Electronics & Telecommunication Engineer transitioning into Software Development
 ### Languages
 - Python
 - C
-- C++
 
 ### Backend
 - FastAPI (Learning)
