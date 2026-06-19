@@ -25,6 +25,8 @@ Electronics & Telecommunication Engineer transitioning into Software Development
 ### Languages
 - Python
 - C
+- SQL
+  
 
 ### Backend
 - FastAPI (Learning)
@@ -50,7 +52,7 @@ Home automation system using GSM communication for remote device control.
 
 ## 🧠 DSA Journey
 
-- Solved 120+ DSA problems  
+- Solved 150+ DSA problems  
 - Practicing:
   - Arrays
   - Strings
